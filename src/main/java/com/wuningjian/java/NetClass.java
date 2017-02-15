@@ -5,6 +5,7 @@ import java.net.UnknownHostException;
 
 /**
  * Created by oldfive on 2017/2/9.
+ * IP类型的使用
  */
 public class NetClass {
     //获取IP的

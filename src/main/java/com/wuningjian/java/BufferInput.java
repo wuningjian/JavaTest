@@ -4,6 +4,7 @@ import java.io.*;
 
 /**
  * Created by oldfive on 2017/2/9.
+ * 带有缓冲区的文件拷贝
  */
 public class BufferInput {
     public void bufferInputTest(){
